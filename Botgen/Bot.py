@@ -1,7 +1,7 @@
 import os.path
 import random
 import json
-print("Welcome to the bot!")
+print("Welcome to Botgen!")
 names = ["John","Luke","Josh","King","Isabelle","Isabella","Charlotte"]    
 botName = names[random.randrange(0,6)]
 if os.path.exists("dictionary.bot"):
