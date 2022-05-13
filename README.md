@@ -7,4 +7,4 @@ When I say that it's highly customizable, I mean that its easy to someone edit t
 As I said, dictionary.bot is a python **dict** and its readed by the **json module**.
 You can add as much commands as you want. Each command is separated by a comma and needs the input and output. It should look like this: {"command":"reply"}.
 
-A very important note: Write the commands in that file in lowercase, or else you will not be able to run.
+A ***very important*** note: Write the commands in that file in lowercase, or else you will not be able to run.
