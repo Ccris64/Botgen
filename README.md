@@ -9,5 +9,6 @@ You can add as much commands as you want. Each command is separated by a comma a
 
 A ***very important*** note: Write the commands in that file in lowercase, or else you will not be able to run.
 
-Bot in action:\n
+Bot in action:
+
 ![image](https://user-images.githubusercontent.com/93295652/168388534-04aaac5d-efd5-4076-a6a0-8ce14883b6e8.png)
